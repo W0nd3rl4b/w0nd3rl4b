@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=w0nd3rl4b)](https://github.com/w0nd3rl4b/github-readme-stats)
 <!--
 **W0nd3rl4b/w0nd3rl4b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
